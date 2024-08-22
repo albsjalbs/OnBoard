@@ -1,0 +1,145 @@
+[
+    {
+        "version": "1.0",
+        "image": {
+            "name": "Screenshot__1__1724283197232.png",
+            "baseName": "Screenshot__1__1724283197232.png",
+            "format": "PNG",
+            "formatDescription": "PNG",
+            "mimeType": "image\/png",
+            "class": "DirectClass",
+            "geometry": {
+                "width": 1280,
+                "height": 1024,
+                "x": 0,
+                "y": 0
+            },
+            "units": "Undefined",
+            "type": "TrueColorAlpha",
+            "baseType": "Undefined",
+            "endianness": "Undefined",
+            "colorspace": "sRGB",
+            "depth": 8,
+            "baseDepth": 8,
+            "channelDepth": {
+                "alpha": 1,
+                "red": 8,
+                "green": 8,
+                "blue": 1
+            },
+            "pixels": 5242880,
+            "imageStatistics": {
+                "Overall": {
+                    "min": 0,
+                    "max": 255,
+                    "mean": 237.258,
+                    "median": 245.75,
+                    "standardDeviation": 32.6367,
+                    "kurtosis": 15.9626,
+                    "skewness": -3.92657,
+                    "entropy": 0.228279
+                }
+            },
+            "channelStatistics": {
+                "alpha": {
+                    "min": 255,
+                    "max": 255,
+                    "mean": 255,
+                    "median": 255,
+                    "standardDeviation": 0,
+                    "kurtosis": 8.189e+51,
+                    "skewness": 1.0e+36,
+                    "entropy": 0
+                },
+                "red": {
+                    "min": 0,
+                    "max": 255,
+                    "mean": 230.83,
+                    "median": 245,
+                    "standardDeviation": 49.8129,
+                    "kurtosis": 8.70934,
+                    "skewness": -3.12821,
+                    "entropy": 0.286918
+                },
+                "green": {
+                    "min": 0,
+                    "max": 255,
+                    "mean": 232.096,
+                    "median": 244,
+                    "standardDeviation": 44.0169,
+                    "kurtosis": 10.0138,
+                    "skewness": -3.22503,
+                    "entropy": 0.307499
+                },
+                "blue": {
+                    "min": 0,
+                    "max": 255,
+                    "mean": 231.104,
+                    "median": 239,
+                    "standardDeviation": 36.7168,
+                    "kurtosis": 18.3338,
+                    "skewness": -3.96153,
+                    "entropy": 0.318699
+                }
+            },
+            "renderingIntent": "Perceptual",
+            "gamma": 0.45455,
+            "chromaticity": {
+                "redPrimary": {
+                    "x": 0.64,
+                    "y": 0.33
+                },
+                "greenPrimary": {
+                    "x": 0.3,
+                    "y": 0.6
+                },
+                "bluePrimary": {
+                    "x": 0.15,
+                    "y": 0.06
+                },
+                "whitePrimary": {
+                    "x": 0.3127,
+                    "y": 0.329
+                }
+            },
+            "matteColor": "#BDBDBD",
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#DFDFDF",
+            "transparentColor": "#00000000",
+            "interlace": "None",
+            "intensity": "Undefined",
+            "compose": "Over",
+            "pageGeometry": {
+                "width": 1280,
+                "height": 1024,
+                "x": 0,
+                "y": 0
+            },
+            "dispose": "Undefined",
+            "iterations": 0,
+            "compression": "Zip",
+            "orientation": "Undefined",
+            "properties": {
+                "date:create": "2024-08-21T23:33:16+00:00",
+                "date:modify": "2024-08-21T23:33:16+00:00",
+                "date:timestamp": "2024-08-21T23:33:30+00:00",
+                "png:cHRM": "chunk was found (see Chromaticity, above)",
+                "png:gAMA": "gamma=0.45455 (See Gamma, above)",
+                "png:IHDR.bit-depth-orig": "8",
+                "png:IHDR.bit_depth": "8",
+                "png:IHDR.color-type-orig": "6",
+                "png:IHDR.color_type": "6 (RGBA)",
+                "png:IHDR.interlace_method": "0 (Not interlaced)",
+                "png:IHDR.width,height": "1280, 1024",
+                "png:sRGB": "intent=0 (Perceptual Intent)",
+                "signature": "9992f089764824c5e90a229f546d29243b4a06806dec80b92625f7122b9f2af5"
+            },
+            "tainted": false,
+            "filesize": "138274B",
+            "numberPixels": "1310720",
+            "pixelsPerSecond": "2.7766GB",
+            "userTime": "0.000u",
+            "elapsedTime": "0:01.000"
+        }
+    }
+]
